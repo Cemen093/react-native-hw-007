@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1146c82c-fc13-41e8-b4a6-90595adcf049"
+      }
+    },
+    "owner": "pili_ou77"
   }
 }
